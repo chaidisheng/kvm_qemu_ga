@@ -1,2 +1,2 @@
 # kvm_qemu_ga
-qemu-ga
+qemu-ga test
